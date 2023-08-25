@@ -1,0 +1,16 @@
+version: "3"
+services:
+  database:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - 5432:5432
+
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: apedrosa.dev@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: apedrosa.dev@gmail.com
+    ports:
+      - 8080:80

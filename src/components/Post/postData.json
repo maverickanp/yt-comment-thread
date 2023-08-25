@@ -1,0 +1,765 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "0B3N-rU0ZFbCuyffJf1cZF1fn44",
+  "nextPageToken": "QURTSl9pMTFrLVRuazZGOU1mNlc4OVY2MTg4b0hPbkhHd3JiNkRaMllMTXZfay1Hcl9Ia0pEWG1mUGxzMDk2YXM0QzM2SEh3WXNxTEhHdFN2ckhrR29tRmlrTHE1T0Ru",
+  "pageInfo": {
+      "totalResults": 20,
+      "resultsPerPage": 20
+  },
+  "items": [
+      {
+          "kind": "youtube#commentThread",
+          "etag": "QAuECNKxRei99AA74p4vHzsXf-k",
+          "id": "UgxF2abDmQTtsjd7ziV4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "Wnj8LkohmVyR0MbyHjTmNV5wV0g",
+                  "id": "UgxF2abDmQTtsjd7ziV4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "❤❤❤ Comentem aqui para receber o frequenciamento coletivo gratuito",
+                      "textOriginal": "❤❤❤ Comentem aqui para receber o frequenciamento coletivo gratuito",
+                      "authorDisplayName": "PARANORMAL EXPERIENCE",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ge5iaU1ZNtiNovC6MJm83xa5DjGZeaE8hjUn-dRKU4zRMIcmeL-L24p223VwXPOxCLQU6s9amBY=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCyIU3E4WGVp4s7x8_ypXQ4g",
+                      "authorChannelId": {
+                          "value": "UCyIU3E4WGVp4s7x8_ypXQ4g"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 996,
+                      "publishedAt": "2023-07-28T00:41:09Z",
+                      "updatedAt": "2023-07-28T00:41:40Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 493,
+              "isPublic": true
+          },
+          "replies": {
+              "comments": [
+                  {
+                      "kind": "youtube#comment",
+                      "etag": "MvXPQStFsJ2vQwuDruv5cE6Vg0Y",
+                      "id": "UgxF2abDmQTtsjd7ziV4AaABAg.9sgfFpgUEzn9tabmi85BGI",
+                      "snippet": {
+                          "videoId": "EOX1BPkK-38",
+                          "textDisplay": "Quero entrar no frequencionsmento<br><br>19.11.75",
+                          "textOriginal": "Quero entrar no frequencionsmento\n\n19.11.75",
+                          "parentId": "UgxF2abDmQTtsjd7ziV4AaABAg",
+                          "authorDisplayName": "Rosana Haubert",
+                          "authorProfileImageUrl": "https://yt3.ggpht.com/7wbIIE-abIvcvSFV_eGMlz1IDkRoE4rqPN7NeRRo7sn4NENH3BzkmJ83e065Utd3_15iwo5EAw=s48-c-k-c0x00ffffff-no-rj",
+                          "authorChannelUrl": "http://www.youtube.com/channel/UCTXXqoUo6kUhE876295aj6w",
+                          "authorChannelId": {
+                              "value": "UCTXXqoUo6kUhE876295aj6w"
+                          },
+                          "canRate": true,
+                          "viewerRating": "none",
+                          "likeCount": 0,
+                          "publishedAt": "2023-08-19T12:46:45Z",
+                          "updatedAt": "2023-08-19T12:46:45Z"
+                      }
+                  },
+                  {
+                      "kind": "youtube#comment",
+                      "etag": "Ph5yTE_5h3V75936Mzv3NURKr2g",
+                      "id": "UgxF2abDmQTtsjd7ziV4AaABAg.9sgfFpgUEzn9taTvpY-FaW",
+                      "snippet": {
+                          "videoId": "EOX1BPkK-38",
+                          "textDisplay": "Ana Paula Tolentino Almeida 30 /11/1983",
+                          "textOriginal": "Ana Paula Tolentino Almeida 30 /11/1983",
+                          "parentId": "UgxF2abDmQTtsjd7ziV4AaABAg",
+                          "authorDisplayName": "Ana de Orion 8.8.8",
+                          "authorProfileImageUrl": "https://yt3.ggpht.com/cM0lwnSg_jKgx_thncaADf4w12Yjy9RYgHfVY_EWX50UVSHUuG_tT80LrQFnp1UDlEJrIOlMgg=s48-c-k-c0x00ffffff-no-rj",
+                          "authorChannelUrl": "http://www.youtube.com/channel/UCDVeK2ijEQlKDDpWJW_116Q",
+                          "authorChannelId": {
+                              "value": "UCDVeK2ijEQlKDDpWJW_116Q"
+                          },
+                          "canRate": true,
+                          "viewerRating": "none",
+                          "likeCount": 0,
+                          "publishedAt": "2023-08-19T11:29:21Z",
+                          "updatedAt": "2023-08-19T11:29:21Z"
+                      }
+                  },
+                  {
+                      "kind": "youtube#comment",
+                      "etag": "tBQukdOECYLSk5fmPkYKkv-RiAA",
+                      "id": "UgxF2abDmQTtsjd7ziV4AaABAg.9sgfFpgUEzn9t_AIkSR30D",
+                      "snippet": {
+                          "videoId": "EOX1BPkK-38",
+                          "textDisplay": "Emanuel Ben Hur 09/10/1990",
+                          "textOriginal": "Emanuel Ben Hur 09/10/1990",
+                          "parentId": "UgxF2abDmQTtsjd7ziV4AaABAg",
+                          "authorDisplayName": "Emanuel Ben Hur",
+                          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSpk34CAEUGRbUf7tuWL0inRMQdaKSjGKWWVWsKg-o=s48-c-k-c0x00ffffff-no-rj",
+                          "authorChannelUrl": "http://www.youtube.com/channel/UCxv1un3jc98bJMm5CBOSsCA",
+                          "authorChannelId": {
+                              "value": "UCxv1un3jc98bJMm5CBOSsCA"
+                          },
+                          "canRate": true,
+                          "viewerRating": "none",
+                          "likeCount": 0,
+                          "publishedAt": "2023-08-18T23:18:37Z",
+                          "updatedAt": "2023-08-18T23:18:37Z"
+                      }
+                  },
+                  {
+                      "kind": "youtube#comment",
+                      "etag": "VZwrc__ikGxetXu-1bJlkZU4mOg",
+                      "id": "UgxF2abDmQTtsjd7ziV4AaABAg.9sgfFpgUEzn9tUx_7hT9A5",
+                      "snippet": {
+                          "videoId": "EOX1BPkK-38",
+                          "textDisplay": "Maraluci zanoni ramos 10/071981<br>Denys Fernando Ramos 16/01/1977",
+                          "textOriginal": "Maraluci zanoni ramos 10/071981\nDenys Fernando Ramos 16/01/1977",
+                          "parentId": "UgxF2abDmQTtsjd7ziV4AaABAg",
+                          "authorDisplayName": "maraluci zanoni",
+                          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTUSpDwQBMyVeTdvGRQIHF-MOi1Ur-CVvapUGBTy8s=s48-c-k-c0x00ffffff-no-rj",
+                          "authorChannelUrl": "http://www.youtube.com/channel/UCVi72X2C9xEer35TjPZVqVg",
+                          "authorChannelId": {
+                              "value": "UCVi72X2C9xEer35TjPZVqVg"
+                          },
+                          "canRate": true,
+                          "viewerRating": "none",
+                          "likeCount": 0,
+                          "publishedAt": "2023-08-16T22:42:27Z",
+                          "updatedAt": "2023-08-16T22:51:28Z"
+                      }
+                  },
+                  {
+                      "kind": "youtube#comment",
+                      "etag": "217C1VP0UAawPxeZ1b4n0WPXDWM",
+                      "id": "UgxF2abDmQTtsjd7ziV4AaABAg.9sgfFpgUEzn9tTO4nZ2gCS",
+                      "snippet": {
+                          "videoId": "EOX1BPkK-38",
+                          "textDisplay": "Marcos Musachi",
+                          "textOriginal": "Marcos Musachi",
+                          "parentId": "UgxF2abDmQTtsjd7ziV4AaABAg",
+                          "authorDisplayName": "Marcos Musachi",
+                          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRbc6SdrtL2fDT6H4B2IktBhOuJrKeFiAQtrVWKDEY=s48-c-k-c0x00ffffff-no-rj",
+                          "authorChannelUrl": "http://www.youtube.com/channel/UCHBgKip9ZwveNAU88sG-Oyw",
+                          "authorChannelId": {
+                              "value": "UCHBgKip9ZwveNAU88sG-Oyw"
+                          },
+                          "canRate": true,
+                          "viewerRating": "none",
+                          "likeCount": 0,
+                          "publishedAt": "2023-08-16T08:04:22Z",
+                          "updatedAt": "2023-08-16T08:04:22Z"
+                      }
+                  }
+              ]
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "omdZorQa8BJadZQ1_jo3gy41hQI",
+          "id": "UgyjxJrQ-apX2qcDo3t4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "3XjYfvoc3uBx4XGKy-BkzKhY85I",
+                  "id": "UgyjxJrQ-apX2qcDo3t4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Ana Cristina Marques - 05/04/1983 @anacristinamarques",
+                      "textOriginal": "Ana Cristina Marques - 05/04/1983 @anacristinamarques",
+                      "authorDisplayName": "Ana Cristina Marques",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT0Rljk1X_YgJiKmbLtb1qPXW_mMEdQXwAI17il=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCvX_jyJ5U8H-x7ntIxHoKOA",
+                      "authorChannelId": {
+                          "value": "UCvX_jyJ5U8H-x7ntIxHoKOA"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-24T14:41:03Z",
+                      "updatedAt": "2023-08-24T14:41:03Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "jClvJsFljMp4D2JUaA9CsuTMVtA",
+          "id": "UgyeTkajXeeAK1eyvel4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "VPe4bHE-syF6bzLaylspYnW3J2M",
+                  "id": "UgyeTkajXeeAK1eyvel4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Sensacional esse Paranormal! Volta Suzi!",
+                      "textOriginal": "Sensacional esse Paranormal! Volta Suzi!",
+                      "authorDisplayName": "Solange Silva",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTBBFc66PXp1vHq6xO3_sV85m0-azQh0LgpRmjjeMM=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UChPKkiWGUgyQezq4p1u6xZw",
+                      "authorChannelId": {
+                          "value": "UChPKkiWGUgyQezq4p1u6xZw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-23T16:12:06Z",
+                      "updatedAt": "2023-08-23T16:12:06Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "yxI7Q-3sL3Iz597QJveC7MQ29-E",
+          "id": "UgwBD5EpwUOg1qq1Iv14AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "FFF4CQxdA3vTQMntymf9J2Z4reU",
+                  "id": "UgwBD5EpwUOg1qq1Iv14AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Ah que pena que era pra por o nome só aquele dia. Só assisti o vídeo hoje 😢",
+                      "textOriginal": "Ah que pena que era pra por o nome só aquele dia. Só assisti o vídeo hoje 😢",
+                      "authorDisplayName": "Ateliê Bord'arte",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTTZltOlrNyKapj4Y1xo41ZqktnBtNzGnGCvQB7uxE=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCk-owZLLMDUy_0vQFUSQzPw",
+                      "authorChannelId": {
+                          "value": "UCk-owZLLMDUy_0vQFUSQzPw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-23T14:15:11Z",
+                      "updatedAt": "2023-08-23T14:15:11Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "BySNzj864Gqe9bTPgP4N83NVRLc",
+          "id": "UgyAjRQNjJF1E3X2ufB4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "2TVZsISqQRzXXESxz4SsY12ZNwc",
+                  "id": "UgyAjRQNjJF1E3X2ufB4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Grace Máximo Wasth<br>16 Setembro 1957",
+                      "textOriginal": "Grace Máximo Wasth\n16 Setembro 1957",
+                      "authorDisplayName": "Grace Wasth",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQM-V7XX6DZQw64JSsHySfo8XMILJT6N4X6Cuvs4Q=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCdXaKnNDvQOV3gakf_7n0yA",
+                      "authorChannelId": {
+                          "value": "UCdXaKnNDvQOV3gakf_7n0yA"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-23T04:44:33Z",
+                      "updatedAt": "2023-08-23T04:44:33Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "OoX7N7djAywXmAiUO2r5JlT9Jvg",
+          "id": "UgzODVcsn4Ss_d3UlTN4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "tEsEnvIr4P3SDzdz_B29n89dQv0",
+                  "id": "UgzODVcsn4Ss_d3UlTN4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Jaqueline 11/02/1969",
+                      "textOriginal": "Jaqueline 11/02/1969",
+                      "authorDisplayName": "Jaqueline Oliveira",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSOiVojNDvEQV-pTBnVszmwxHQfhz33D7boaXW9OWc=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCIZsBdkDVU7KmlAKPcNSBAg",
+                      "authorChannelId": {
+                          "value": "UCIZsBdkDVU7KmlAKPcNSBAg"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-23T00:27:51Z",
+                      "updatedAt": "2023-08-23T00:27:51Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "_QeMiWgnbwFxKH8-vHOomYvONYE",
+          "id": "UgyWaLmfwATGPDg-2od4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "9lJyT4nTcSQsPCIOQZkAmA-riuE",
+                  "id": "UgyWaLmfwATGPDg-2od4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Super interessante, amei. A suzy deve voltar mais x.<br>Quero me consultar com ela😊",
+                      "textOriginal": "Super interessante, amei. A suzy deve voltar mais x.\nQuero me consultar com ela😊",
+                      "authorDisplayName": "Jaqueline Oliveira",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSOiVojNDvEQV-pTBnVszmwxHQfhz33D7boaXW9OWc=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCIZsBdkDVU7KmlAKPcNSBAg",
+                      "authorChannelId": {
+                          "value": "UCIZsBdkDVU7KmlAKPcNSBAg"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-23T00:08:22Z",
+                      "updatedAt": "2023-08-23T00:08:22Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "yUGyV0Bk4x9pRhn4inOPE-dds5M",
+          "id": "UgxxNol_vA25XlhmtXp4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "SMSEP_YtOPGsKRaMovExXQdHYto",
+                  "id": "UgxxNol_vA25XlhmtXp4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "@paranormal  a suzi já começou responder a frequência da galera? Estou no aguardo. <br>Gratidão",
+                      "textOriginal": "@paranormal  a suzi já começou responder a frequência da galera? Estou no aguardo. \nGratidão",
+                      "authorDisplayName": "Diana Pereira",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTEDMnDbv-pOTZ0-lddGGYhos6fDyz05IKWsf5atg=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UChZt2zYUDvphdoQ8t-trwqw",
+                      "authorChannelId": {
+                          "value": "UChZt2zYUDvphdoQ8t-trwqw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-23T00:04:58Z",
+                      "updatedAt": "2023-08-23T00:04:58Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "Pj45XH52qmhPIxy6WhvQFTfpAGs",
+          "id": "UgzNQSxpDbiMqxekPO54AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "a4QmVEaP5wqAmloGV0fULMLwZBA",
+                  "id": "UgzNQSxpDbiMqxekPO54AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Como fica a questão moral sobre da cobrança da mediunidade, (dar de graça o que recebeu de graça? ) <br>PS. Não estou criticando, é uma dúvida",
+                      "textOriginal": "Como fica a questão moral sobre da cobrança da mediunidade, (dar de graça o que recebeu de graça? ) \nPS. Não estou criticando, é uma dúvida",
+                      "authorDisplayName": "WC Gallo",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQiGpy-CFUjcHJutZToo7GuSOu0hqw_tvuE-A=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCJYTwP81f84f3N909J_FJNw",
+                      "authorChannelId": {
+                          "value": "UCJYTwP81f84f3N909J_FJNw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T19:34:11Z",
+                      "updatedAt": "2023-08-22T19:34:11Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "FYAHLBTeB7741IHOprO1WRFY9es",
+          "id": "Ugw00LWw4dKhO6Vpdf54AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "7fxasF0jrc3RSrKZMhSOUzGIz7w",
+                  "id": "Ugw00LWw4dKhO6Vpdf54AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Que live sensacional !❤",
+                      "textOriginal": "Que live sensacional !❤",
+                      "authorDisplayName": "Joanna Gondim",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaR1pJJukZqa6Vqsub0ciU8SLi2lM32__a666g=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCM4oyieL-FbHuUnAzmtGbJg",
+                      "authorChannelId": {
+                          "value": "UCM4oyieL-FbHuUnAzmtGbJg"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T18:01:42Z",
+                      "updatedAt": "2023-08-22T18:01:42Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "w2VugJtlkok4m_G6S0NLtHnTtRY",
+          "id": "Ugyezfq-W2op-DpEgv54AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "3SZxluTZ9ZHmgipqXmK-M7hm3-o",
+                  "id": "Ugyezfq-W2op-DpEgv54AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Muito boa essa live terráqueos 🖖👽🛸 gratidão",
+                      "textOriginal": "Muito boa essa live terráqueos 🖖👽🛸 gratidão",
+                      "authorDisplayName": "Fala Terráqueos Cast",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/dTCbOdWSpMNYoaMNVnkq26lzolCvw2O24P68wW3C9RvuvFn4T8oyKWQ_XYAHFqnbL_WayOJqYg=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCbPFifAB63MSrIk1M6H6buw",
+                      "authorChannelId": {
+                          "value": "UCbPFifAB63MSrIk1M6H6buw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 1,
+                      "publishedAt": "2023-08-22T15:25:16Z",
+                      "updatedAt": "2023-08-22T15:25:16Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "NsWAQkzOYh1Q47VSyvo6LAuz5Mg",
+          "id": "UgyVkRiYPI0fF_EnNwB4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "QArp5ToVf8wGQrBAWHd4ljHEgHg",
+                  "id": "UgyVkRiYPI0fF_EnNwB4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "<a href=\"https://www.youtube.com/watch?v=EOX1BPkK-38&amp;t=1h30m30s\">1:30:30</a> - Guru e Alê falando sobre leitura fria<br><a href=\"https://www.youtube.com/watch?v=EOX1BPkK-38&amp;t=1h33m43s\">1:33:43</a> - Frequenciamento do Guru<br><a href=\"https://www.youtube.com/watch?v=EOX1BPkK-38&amp;t=1h35m20s\">1:35:20</a> - Como funcionamento o frequenciamento",
+                      "textOriginal": "1:30:30 - Guru e Alê falando sobre leitura fria\n1:33:43 - Frequenciamento do Guru\n1:35:20 - Como funcionamento o frequenciamento",
+                      "authorDisplayName": "Prem Kajati",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQ6DlhE5Py1BkB-JNzYw9f9nuSQIk7ItOY2BKqW=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UC2pjwCgd9adquo76XF99NNg",
+                      "authorChannelId": {
+                          "value": "UC2pjwCgd9adquo76XF99NNg"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T09:08:58Z",
+                      "updatedAt": "2023-08-22T09:12:06Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "ONP5zTNNrdijpICobVG_wQrnJiw",
+          "id": "UgxaUpVC7i_n6l5-wbB4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "fsgFpfBUdEw7bCdn1JzP9VC6RRk",
+                  "id": "UgxaUpVC7i_n6l5-wbB4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Top",
+                      "textOriginal": "Top",
+                      "authorDisplayName": "Anderson Franco",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTuP3MBBr1JaUZjYgkngZNZTNzvg6CGNM8h_o_4=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCRe_E2b4KfoWM-D63byGinA",
+                      "authorChannelId": {
+                          "value": "UCRe_E2b4KfoWM-D63byGinA"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T04:04:45Z",
+                      "updatedAt": "2023-08-22T04:04:45Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "fJNUZ52FN7M6erSAOeaBxBz4qlo",
+          "id": "UgwUvELfX0RBWYJJsDR4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "TGzkHt3FmxQbN2PH_2XgQRDIuPI",
+                  "id": "UgwUvELfX0RBWYJJsDR4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Essa mulher nem parece que tem uns 60 anos.. impressionante.",
+                      "textOriginal": "Essa mulher nem parece que tem uns 60 anos.. impressionante.",
+                      "authorDisplayName": "Relatoshd",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/G3WiJ86vVAc2AuX7JjNqsCEjb5LEF0VpLqhTFVmQVlLkwZmDgkWJUqW23xqE1GFzScCv6wHQ=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCPVonFuqsb64FTgT72N49GA",
+                      "authorChannelId": {
+                          "value": "UCPVonFuqsb64FTgT72N49GA"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T02:03:12Z",
+                      "updatedAt": "2023-08-22T02:03:12Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "hjX-oJhCOQYs5fSd0bv9IYt89AE",
+          "id": "UgzZPFHexiW0iTPeKqx4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "ZqbtDyr3CEoe232616JColjKOaw",
+                  "id": "UgzZPFHexiW0iTPeKqx4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Parabéns guru do Himalaia, muito bom  as entrevistas que vc faz no seu canal, pessoa bacanas que vc leva aí, isto mostra como vc e, pessoa de boa simples parabéns,sou um dos seus fãs",
+                      "textOriginal": "Parabéns guru do Himalaia, muito bom  as entrevistas que vc faz no seu canal, pessoa bacanas que vc leva aí, isto mostra como vc e, pessoa de boa simples parabéns,sou um dos seus fãs",
+                      "authorDisplayName": "Robert S.N.",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTCRS8O3GBjb9hvnUBwqQN6mv35Ee0459O6nA=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCt8wY3XfRrDXeOnloOmyEvw",
+                      "authorChannelId": {
+                          "value": "UCt8wY3XfRrDXeOnloOmyEvw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T01:54:07Z",
+                      "updatedAt": "2023-08-22T01:54:07Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "7_tDzRZSAYIvcALazVU-WqFnlLI",
+          "id": "UgwbjCCom_XpLGiNwFd4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "C_3Nn_i-MXI44m_GZcnyA1LXgqk",
+                  "id": "UgwbjCCom_XpLGiNwFd4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Eu comentei no dia e não recebi minha resposta ainda!!! De qualquer forma foi maravilhoso assistir a Suzi e aprender muito com ela!!! Amei!!! Estou acompanhando algumas coisas no seu canal",
+                      "textOriginal": "Eu comentei no dia e não recebi minha resposta ainda!!! De qualquer forma foi maravilhoso assistir a Suzi e aprender muito com ela!!! Amei!!! Estou acompanhando algumas coisas no seu canal",
+                      "authorDisplayName": "Alan Marcelino da Silva",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTfNPxZ1MGLzn1qM0VKIo13q9fiQ9aWn9RULFS9sxc=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCnDZdPl4h-QApNa2GXXxRTg",
+                      "authorChannelId": {
+                          "value": "UCnDZdPl4h-QApNa2GXXxRTg"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T00:52:19Z",
+                      "updatedAt": "2023-08-22T00:52:19Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "WWgkhP3qn8ToPDUehxBMlMPsRGQ",
+          "id": "Ugz9KSO2c8DmDNvf53B4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "fZQQdtrjKJaa_ZgOtqSWcPJ7loI",
+                  "id": "Ugz9KSO2c8DmDNvf53B4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Como entrar em contato para fazer o frequenciamento? No site dela não tem e no instagram não obtive resposta.",
+                      "textOriginal": "Como entrar em contato para fazer o frequenciamento? No site dela não tem e no instagram não obtive resposta.",
+                      "authorDisplayName": "Lucy B",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRY9OZvPjiC7zu_h_vJgZUFwF-X2zBvfAseOQ=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCwQREJkVOe3jcEqp5nKW8tw",
+                      "authorChannelId": {
+                          "value": "UCwQREJkVOe3jcEqp5nKW8tw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-22T00:11:06Z",
+                      "updatedAt": "2023-08-22T00:11:06Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "V71iiNiSl_dkSNninUZgvRlPh98",
+          "id": "UgxVN6MFUpT9bu36kuh4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "_LubTwFCj5ZJ8Qaut36eukdVcVA",
+                  "id": "UgxVN6MFUpT9bu36kuh4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Letícia Daniel Fioravante 23/11/1992",
+                      "textOriginal": "Letícia Daniel Fioravante 23/11/1992",
+                      "authorDisplayName": "Leh Fioravante ",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/9YA9F7z9ZoO4JP4Azbn2mY8DcZUOaGQhwI4ZSft0r9oq4OSeFVH8fb_fzqzDuhkyduudkLnK=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCSAlDKRVd9SDxFXTUSNzuAg",
+                      "authorChannelId": {
+                          "value": "UCSAlDKRVd9SDxFXTUSNzuAg"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-21T22:50:51Z",
+                      "updatedAt": "2023-08-21T22:51:22Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "hBN-0qLykzQyNNusBdG9lYz-s9I",
+          "id": "UgzdbsQY15DdJJNY1P94AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "b1Tfb457zttl04JjRs4ubM_mZ_U",
+                  "id": "UgzdbsQY15DdJJNY1P94AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "Ameiiii a live, pena que não assisti ao vivo. Achei sensacional, cativante!",
+                      "textOriginal": "Ameiiii a live, pena que não assisti ao vivo. Achei sensacional, cativante!",
+                      "authorDisplayName": "Tânia Bahy",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQGaEYDPSADwSmjU2uli_nZ_nTF2f9tGzudKlTsXfc=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCcRiLujCADMMKoFv5QRaQzg",
+                      "authorChannelId": {
+                          "value": "UCcRiLujCADMMKoFv5QRaQzg"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-21T22:35:41Z",
+                      "updatedAt": "2023-08-21T22:35:41Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      },
+      {
+          "kind": "youtube#commentThread",
+          "etag": "wBycWfJ574JeEfskg09MtjATvSc",
+          "id": "Ugzm5rge1xBn5y5WL9l4AaABAg",
+          "snippet": {
+              "videoId": "EOX1BPkK-38",
+              "topLevelComment": {
+                  "kind": "youtube#comment",
+                  "etag": "2wTwgIMpF8UH1ilJD7C5gPfg83M",
+                  "id": "Ugzm5rge1xBn5y5WL9l4AaABAg",
+                  "snippet": {
+                      "videoId": "EOX1BPkK-38",
+                      "textDisplay": "@mediumtallk Suzi gostaria de um frequenciamento tbm! Tatiane Eiko Ferreira Lima Suura 22/06/1980 um grande beijo",
+                      "textOriginal": "@mediumtallk Suzi gostaria de um frequenciamento tbm! Tatiane Eiko Ferreira Lima Suura 22/06/1980 um grande beijo",
+                      "authorDisplayName": "Tatiane Suura",
+                      "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTi1udHr1RS0iI5nSfN7YyWVf-pNfG_7KNZGzS_lw=s48-c-k-c0x00ffffff-no-rj",
+                      "authorChannelUrl": "http://www.youtube.com/channel/UCzs0LH49fnLp9Tx0HEv_arw",
+                      "authorChannelId": {
+                          "value": "UCzs0LH49fnLp9Tx0HEv_arw"
+                      },
+                      "canRate": true,
+                      "viewerRating": "none",
+                      "likeCount": 0,
+                      "publishedAt": "2023-08-21T19:25:44Z",
+                      "updatedAt": "2023-08-21T19:25:44Z"
+                  }
+              },
+              "canReply": true,
+              "totalReplyCount": 0,
+              "isPublic": true
+          }
+      }
+  ]
+}
